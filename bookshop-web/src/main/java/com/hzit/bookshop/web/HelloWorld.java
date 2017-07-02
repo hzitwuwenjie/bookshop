@@ -14,6 +14,6 @@ package com.hzit.bookshop.web;
 public class HelloWorld {
 
     public void showMe(){
-
+        System.out.println("Hello Word");
     }
 }
